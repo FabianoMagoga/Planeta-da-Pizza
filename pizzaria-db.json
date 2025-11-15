@@ -1,0 +1,348 @@
+{
+  "clientes": [],
+  "produtos": [
+    {
+      "id": "id_1",
+      "nome": "4 Queijos",
+      "categoria": "Pizza Salgadas",
+      "preco": 47.9,
+      "ativo": true
+    },
+    {
+      "id": "id_2",
+      "nome": "5 Queijos",
+      "categoria": "Pizza Salgadas",
+      "preco": 47.9,
+      "ativo": true
+    },
+    {
+      "id": "id_3",
+      "nome": "Americana",
+      "categoria": "Pizza Salgadas",
+      "preco": 47.9,
+      "ativo": true
+    },
+    {
+      "id": "id_4",
+      "nome": "Atum",
+      "categoria": "Pizza Salgadas",
+      "preco": 47.9,
+      "ativo": true
+    },
+    {
+      "id": "id_5",
+      "nome": "Brócolis",
+      "categoria": "Pizza Salgadas",
+      "preco": 47.9,
+      "ativo": true
+    },
+    {
+      "id": "id_6",
+      "nome": "Calabresa",
+      "categoria": "Pizza Salgadas",
+      "preco": 42.9,
+      "ativo": true
+    },
+    {
+      "id": "id_7",
+      "nome": "Calabresa com Cheddar",
+      "categoria": "Pizza Salgadas",
+      "preco": 47.9,
+      "ativo": true
+    },
+    {
+      "id": "id_8",
+      "nome": "Calabresa com Queijo",
+      "categoria": "Pizza Salgadas",
+      "preco": 47.9,
+      "ativo": true
+    },
+    {
+      "id": "id_9",
+      "nome": "Chicago",
+      "categoria": "Pizza Salgadas",
+      "preco": 47.9,
+      "ativo": true
+    },
+    {
+      "id": "id_10",
+      "nome": "Doritos",
+      "categoria": "Pizza Salgadas",
+      "preco": 47.9,
+      "ativo": true
+    },
+    {
+      "id": "id_11",
+      "nome": "Frango com Bacon",
+      "categoria": "Pizza Salgadas",
+      "preco": 43.9,
+      "ativo": true
+    },
+    {
+      "id": "id_12",
+      "nome": "Frango com Catupiry",
+      "categoria": "Pizza Salgadas",
+      "preco": 47.9,
+      "ativo": true
+    },
+    {
+      "id": "id_13",
+      "nome": "Frango com Catupiry e Bacon",
+      "categoria": "Pizza Salgadas",
+      "preco": 50.9,
+      "ativo": true
+    },
+    {
+      "id": "id_14",
+      "nome": "Frango com Cheddar",
+      "categoria": "Pizza Salgadas",
+      "preco": 42.9,
+      "ativo": true
+    },
+    {
+      "id": "id_15",
+      "nome": "La Bonissima",
+      "categoria": "Pizza Salgadas",
+      "preco": 47.9,
+      "ativo": true
+    },
+    {
+      "id": "id_16",
+      "nome": "Moda da Casa",
+      "categoria": "Pizza Salgadas",
+      "preco": 54.9,
+      "ativo": true
+    },
+    {
+      "id": "id_17",
+      "nome": "Moda do Chefe",
+      "categoria": "Pizza Salgadas",
+      "preco": 49.9,
+      "ativo": true
+    },
+    {
+      "id": "id_18",
+      "nome": "Mussarela",
+      "categoria": "Pizza Salgadas",
+      "preco": 39.9,
+      "ativo": true
+    },
+    {
+      "id": "id_19",
+      "nome": "Portuguesa",
+      "categoria": "Pizza Salgadas",
+      "preco": 47.9,
+      "ativo": true
+    },
+    {
+      "id": "id_20",
+      "nome": "Strogonoff",
+      "categoria": "Pizza Salgadas",
+      "preco": 47.9,
+      "ativo": true
+    },
+    {
+      "id": "id_21",
+      "nome": "Toscana",
+      "categoria": "Pizza Salgadas",
+      "preco": 47.9,
+      "ativo": true
+    },
+    {
+      "id": "id_22",
+      "nome": "Refrigerante Lata 350ml",
+      "categoria": "Bebida",
+      "preco": 6,
+      "ativo": true,
+      "variantes": [
+        "Coca-Cola",
+        "Fanta Laranja",
+        "Sukita Uva",
+        "Sukita Laranja",
+        "Soda"
+      ]
+    },
+    {
+      "id": "id_23",
+      "nome": "Refrigerante 600ml",
+      "categoria": "Bebida",
+      "preco": 8,
+      "ativo": true,
+      "variantes": [
+        "Coca-Cola",
+        "Fanta Laranja",
+        "Sukita Uva",
+        "Sukita Laranja",
+        "Soda"
+      ]
+    },
+    {
+      "id": "id_24",
+      "nome": "Refrigerante 1L",
+      "categoria": "Bebida",
+      "preco": 12,
+      "ativo": true,
+      "variantes": [
+        "Coca-Cola",
+        "Fanta Laranja",
+        "Sukita Uva",
+        "Sukita Laranja",
+        "Soda"
+      ]
+    },
+    {
+      "id": "id_25",
+      "nome": "Refrigerante 2L",
+      "categoria": "Bebida",
+      "preco": 14,
+      "ativo": true,
+      "variantes": [
+        "Coca-Cola",
+        "Fanta Laranja",
+        "Sukita Uva",
+        "Sukita Laranja",
+        "Soda"
+      ]
+    },
+    {
+      "id": "id_26",
+      "nome": "Cerveja Lata 350ml",
+      "categoria": "Bebida",
+      "preco": 6.5,
+      "ativo": true,
+      "variantes": [
+        "Heineken",
+        "Brahma",
+        "Skol",
+        "Stella Artois",
+        "Budweiser"
+      ]
+    },
+    {
+      "id": "id_27",
+      "nome": "Cerveja Long Neck",
+      "categoria": "Bebida",
+      "preco": 8.5,
+      "ativo": true,
+      "variantes": [
+        "Heineken",
+        "Brahma",
+        "Skol",
+        "Stella Artois",
+        "Budweiser"
+      ]
+    },
+    {
+      "id": "id_28",
+      "nome": "Cerveja 600ml",
+      "categoria": "Bebida",
+      "preco": 12.5,
+      "ativo": true,
+      "variantes": [
+        "Heineken",
+        "Brahma",
+        "Skol",
+        "Stella Artois",
+        "Budweiser"
+      ]
+    },
+    {
+      "id": "id_29",
+      "nome": "Suco 300ml",
+      "categoria": "Bebida",
+      "preco": 7.5,
+      "ativo": true,
+      "variantes": [
+        "Laranja",
+        "Uva",
+        "Abacaxi",
+        "Manga",
+        "Maracujá",
+        "Acerola"
+      ]
+    },
+    {
+      "id": "id_30",
+      "nome": "Água Mineral 500ml",
+      "categoria": "Bebida",
+      "preco": 4,
+      "ativo": true
+    },
+    {
+      "id": "id_31",
+      "nome": "Pizza Doces (Banana Caramelizada)",
+      "categoria": "Pizza Doces",
+      "preco": 44.9,
+      "ativo": true
+    },
+    {
+      "id": "id_32",
+      "nome": "Pizza Doces (Beijinho)",
+      "categoria": "Pizza Doces",
+      "preco": 32.9,
+      "ativo": true
+    },
+    {
+      "id": "id_33",
+      "nome": "Pizza Doces (Chocolate)",
+      "categoria": "Pizza Doces",
+      "preco": 39.9,
+      "ativo": true
+    },
+    {
+      "id": "id_34",
+      "nome": "Pizza Doces (Chocolate com Banana)",
+      "categoria": "Pizza Doces",
+      "preco": 45.9,
+      "ativo": true
+    },
+    {
+      "id": "id_35",
+      "nome": "Pizza Doces (Chocolate com Morango)",
+      "categoria": "Pizza Doces",
+      "preco": 47.9,
+      "ativo": true
+    },
+    {
+      "id": "id_36",
+      "nome": "Pizza Doces (Confete)",
+      "categoria": "Pizza Doces",
+      "preco": 40.9,
+      "ativo": true
+    },
+    {
+      "id": "id_37",
+      "nome": "Pizza Doces (Cream Cookies)",
+      "categoria": "Pizza Doces",
+      "preco": 50.9,
+      "ativo": true
+    },
+    {
+      "id": "id_38",
+      "nome": "Pizza Doces (Doce de Leite)",
+      "categoria": "Pizza Doces",
+      "preco": 34.9,
+      "ativo": true
+    },
+    {
+      "id": "id_39",
+      "nome": "Pizza Doces (Prestigio)",
+      "categoria": "Pizza Doces",
+      "preco": 46.9,
+      "ativo": true
+    },
+    {
+      "id": "id_40",
+      "nome": "Pizza Doces (Romeu e Julieta)",
+      "categoria": "Pizza Doces",
+      "preco": 45.9,
+      "ativo": true
+    }
+  ],
+  "pedidos": [],
+  "_meta": {
+    "seq": 41,
+    "pedidoSeq": 1,
+    "savedAt": "2025-11-15T14:57:20.563Z"
+  }
+}
